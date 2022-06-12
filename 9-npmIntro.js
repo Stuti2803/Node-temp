@@ -35,5 +35,5 @@ console.log(newItems);
 //push commands
 
 //In package.json file, there is an object called dependencies and it consists of all the packages that are used in the project with its version number
-//
+
 
