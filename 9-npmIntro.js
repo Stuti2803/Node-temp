@@ -26,3 +26,14 @@ const items=[1,[2,[3,[4]]]]
 const newItems = _.flattenDeep(items)
 console.log(newItems);
 
+
+//create a new git repo
+//commands: 
+//git init
+//git add *
+//git commit -m "first commit"
+//push commands
+
+//In package.json file, there is an object called dependencies and it consists of all the packages that are used in the project with its version number
+//
+
